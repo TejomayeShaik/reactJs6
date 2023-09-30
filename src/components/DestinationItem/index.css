@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.card-con {
+  list-style-type: none;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 32px;
+}
+
+.img {
+  width: 240px;
+  height: 180px;
+}
+
+.para {
+  color: black;
+  font-size: 16px;
+  font-family: 'Roboto';
+  text-align: center;
+}
